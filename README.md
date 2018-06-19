@@ -1,6 +1,9 @@
 # CSUNSA--TopicosdeIA--DiegoRanillaGallegos
 RED NEURONAL BACKPROPAGATION
-/*********************Caracteristicas********************************/
+
+/*****************************/
+Caracteristicas:
+
 - Esta red esta conformada por dos capas de neuronas
 - Para poder modificar la cantidad de neuronas tanto como la primera como
   la segunda capa se tiene que realizar lo siguiente:
@@ -15,17 +18,23 @@ RED NEURONAL BACKPROPAGATION
 	  Aqui se va añadir la cantidad de neuronas que habrá en la capa oculta en este caso tiene dos neuronas
 
 	  
-/*********************Compilación y Ejecucion***********************/
+/********************************************/
+Compilación y Ejecucion
+
 Para compilar el programa se tiene que ejecutar el siguiente comando:
 g++ -std=c++11 main.cpp -o main
 
 Para ejecutarlo: ./main
 
-/****************ALGO MAS*****************/
+/*********************************/
+ALGO MAS
+
 1. Cuando se ejecute va a entrenar la red neuronal hasta llegar a un valor minimo
 2. Luego se mostrará los pesos obtenidos por el entrenamiento por cada capa
 
-/************PRUEBAS********************/
+/********************************/
+PRUEBAS
+
 Se usaron los datos del XOR para el entrenamiento, después de mostrar los resultados del entrenamiento la consola le solicitará ingresar dos valores para poder hacer el respectivo testing, como el siguiente:
 
 Ingresar Valores
