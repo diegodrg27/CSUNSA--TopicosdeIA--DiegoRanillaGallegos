@@ -38,8 +38,11 @@ PRUEBAS
 Se usaron los datos del XOR para el entrenamiento, después de mostrar los resultados del entrenamiento la consola le solicitará ingresar dos valores para poder hacer el respectivo testing, como el siguiente:
 
 Ingresar Valores
+
 Valor 1:1
+
 Valor 2:0
+
 Resultado
  0.986549
 
